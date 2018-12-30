@@ -15,7 +15,7 @@ let body = `
 
     <h1 class="center-text">
       <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello world!
+      This is my second test with begin.com
     </h1>
 
     <p class="center-text">
